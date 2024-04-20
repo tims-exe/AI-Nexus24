@@ -13,10 +13,17 @@ Progress Summary:
 
 •	Proposed training separate models for different target species (if resources allow) for potentially improved accuracy.
 
-Next Steps:
-
 •	Investigate existing underwater acoustic datasets containing marine mammal vocalizations relevant to the target region.
 
 •	Research feature engineering techniques specifically designed for marine mammal call classification.
 
 •	Exploring ways to load custom dataset to the VGGish model. (Current hurdle to tackle aka learning phase :D  TIMESTAMP-16:05)
+
+• Training dataset found. Lack of behavioral vocalization but identification possible.
+
+• Processed audio data and conversion to spectogram successfull. Need to process the entire data.
+
+• Figuring out to load the processed dataset to train the model. (TIMESTAMP-18:45)
+
+
+
