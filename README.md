@@ -1,4 +1,6 @@
 Progress Summary:
+
+
 •	Investigated the diverse vocal repertoires of target species, including whistles, barks, and pulsed calls. Identified the importance of linking specific call types to behaviors for model development.
 •	Evaluated the potential of VGGish, a pre-trained audio feature extraction model. Acknowledged limitations of VGGish's generic audio focus and the need for further exploration in translating features to specific calls.
 •	Highlighted the need for custom model development with feature engineering techniques like Mel-frequency cepstral coefficients (MFCCs) and time-domain features. Emphasized building a multi-class classification model for various vocalization types.
